@@ -8,3 +8,4 @@ steps:
     commands:
       - go build
       - echo hello world
+      - echo 2
