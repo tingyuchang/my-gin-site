@@ -6,6 +6,5 @@ steps:
   - name: greeting
     image: golang:1.13-alpine
     commands:
-      - go build
       - echo hello world
       - echo 2
